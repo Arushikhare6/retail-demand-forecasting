@@ -2,5 +2,12 @@
 *.pyc
 __pycache__/
 .DS_Store
-*.csv
 venv
+venv/
+.venv/
+data/checkpoints/
+**/checkpoints/
+*.pkl
+Thumbs.db
+.vscode/
+*.log

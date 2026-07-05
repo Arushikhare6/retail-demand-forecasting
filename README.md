@@ -40,7 +40,6 @@ An end-to-end analytics pipeline on 3 years (2010–2012) of multi-store, multi-
 - [Future Improvements](#-future-improvements)
 - [Known Challenges](#-known-challenges)
 - [Setup](#-setup)
-- [Visual Insights](#-visual-insights)
 - [License](#-license)
 
 ---

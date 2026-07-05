@@ -9,7 +9,6 @@ An end-to-end analytics pipeline on 3 years (2010–2012) of multi-store, multi-
 | **Dataset** | Walmart Recruiting – Store Sales Forecasting (Kaggle) |
 | **Language** | Python |
 | **Techniques** | Forecasting, Clustering, Market Basket Analysis, Causal Inference |
-| **Status** | Complete |
 
 ---
 
